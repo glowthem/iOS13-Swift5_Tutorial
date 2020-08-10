@@ -15,5 +15,9 @@
 > A Body Mass Index calculator that will calculate user's body mass based on the user’s weight and height that and will give a piece of health advice.
 
 ### [Tipsy](https://github.com/glowthem/Tipsy)
-> 💵  n분의 1 팁 계산 앱
+> 💵 n분의 1 팁 계산 앱
 > A bill splitting, tip calculating app
+
+### [Clima](https://github.com/glowthem/Clima)
+> ☀️ API를 이용하여 위치기반 날씨정보를 제공하며 다크 모드를 지원하는 앱
+> This app can check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually.
